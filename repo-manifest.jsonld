@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/add-trailing-comma/commit/4aa21034cf9e0aef19376abd3922943400b16ee1",
       "git:hexsha": "4aa21034cf9e0aef19376abd3922943400b16ee1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:54:04.658551+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/add-trailing-comma/commit/d26f8ca449eb12cfaec3d3cd1f8ced789bd73e9a",
