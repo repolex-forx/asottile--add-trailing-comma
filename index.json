@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "add-trailing-comma",
+  "versions": [
+    {
+      "commit": "4aa21034cf9e0aef19376abd3922943400b16ee1",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:54:04.720598+00:00"
+    }
+  ]
+}
